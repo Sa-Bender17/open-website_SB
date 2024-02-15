@@ -1,0 +1,10 @@
+# master branch  modified 2022-05-18T13:44:34
+
+Thumbs.db
+~*
+
+# *.tmp and tmpz_* temporary files and folders.
+*.tmp
+tmpz_*
+
+# EOF .gitignore
